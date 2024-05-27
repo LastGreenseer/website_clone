@@ -1,0 +1,176 @@
+
+p {
+    color: white;
+}
+
+header {
+    width: 100%;
+}
+
+.desktopNav_container {
+    background-color: rgb(48, 47, 47);
+    color:white;
+    border: 1px solid gray;
+ width: 100%;
+ height: 75px;
+ padding: 0px;
+ display: flex;
+ box-sizing: border-box;
+}
+
+.desktopLeft {
+    border:1px solid gray;
+    padding-right: 300px;
+}
+
+.login {
+    padding-left: 20px;
+    padding-right: 100px;
+    padding-top: 10px;
+    border: 1px solid gray;
+    display: flex;
+    cursor: pointer;
+} 
+
+.logo {
+    display: flex;
+align-items: center;
+padding-left: 300px;
+padding-right: 300px;
+}
+
+h1 {
+    width:124.22px;
+    height:50px;
+    max-width: 124.22px;
+    max-height: 50px;
+display:flex;
+position: relative;
+}
+
+
+.desktopRight {
+    display:flex;
+    border: 1px solid gray;
+    border: 1px solid gray;
+   
+    }
+
+.serchPromo_wrap {
+    display: flex;
+    
+}
+
+
+.spy-glass {
+display: flex;
+padding-top: 10px;
+padding-left: 10px;
+padding-right: 50px;
+border: 1px solid gray;
+align-items: center;
+
+}
+
+.mini-title-bar {
+    width:100%;
+    height:30px;
+
+
+font: 400px;
+display:flex;
+justify-content:space-evenly;
+align-items:center;
+background-color: rgb(48, 47, 47) ;
+}
+
+.smallest-title-bar {
+    width:100%;
+    height:20px;
+display:flex;
+justify-content: space-around;
+align-items: center;
+background-color: black;
+}
+
+.X-Men-97 {
+    width:100%;
+    height:500px;
+display:flex;
+justify-content: space-around;
+}
+
+.X-Men-container {
+    padding: 0;
+    margin: 0;
+    width: 55%;
+    white-space:normal;
+    z-index: 10;
+    position: absolute;
+}
+
+.masthead__headline {
+    padding-top: 11px;
+    padding: 0 0 15px;
+    margin: 0;
+    display: block;
+    color: #fff;
+    font-size: 44px;
+    font: 500 26px/1 RobotoCondensed Bold,Trebuchet MS,Helvetica,Arial,sans-serif;
+    line-height: 1;
+    text-transform: uppercase;
+    transition: font-size .2s ease;
+}
+
+.news {
+    position: relative;
+    bottom: 0;
+    left: 10px;
+    max-width: 1300px;
+    margin: 0 auto;
+    display: flex;
+    background-color: white;
+    padding: 0;
+    width: 100%;
+    height: 50px;
+}
+
+.tabs_container {
+    position: relative;
+    top: 17px;
+    margin: -17px 0 0;
+    padding: 0 0 17px;
+    padding-bottom: 100px;
+    width: 100%;
+    display: flex;
+    list-style: none;
+    font: 400 16px/1.3 Roboto,Trebuchet MS,Helvetica,Arial,sans-serif;
+    letter-spacing: .5px;
+}
+
+.social-links-wrapper{
+    display: flex;
+    margin: 0 auto;
+    max-width: 2000px;
+    position: relative;
+}
+
+.social-links-social {
+    display: flex;
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    padding-right: 10px;
+    padding-top: 20px;
+}
+
+.loki-ad {
+    display: flex;
+    justify-content:space-around;
+}
